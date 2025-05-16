@@ -1,5 +1,14 @@
 # MacPower
 
+sudo python3 old.py
+sudo python3 main.py
+
+old.py     터미널용으로 해보는중
+main.py    GUI로 해보는중
+
+둘다 미완성입니다.
+
+
 https://scolpion.tistory.com/158
 
 Mac Power Setting
